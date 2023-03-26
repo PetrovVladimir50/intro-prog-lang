@@ -1,4 +1,6 @@
-﻿// Ввод первого числа
+﻿// Задача №2: на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+
+// Ввод первого числа
 Console.Write("Enter first number: ");
 string? number1Line = Console.ReadLine();
 // Ввод второго числа
@@ -16,10 +18,14 @@ if (number1Line!=null && number2Line!=null)
     {
         Console.Write("max: ");
         Console.WriteLine(number1);
+        Console.Write("min: ");
+        Console.WriteLine(number2);
     }
     else
     {
         Console.Write("max: ");
         Console.WriteLine(number2);
+        Console.Write("min: ");
+        Console.WriteLine(number1);
     }
 }

@@ -1,4 +1,6 @@
-﻿// Ввод значений
+﻿// Задача №4: На вход три числа и выдаёт максимальное из этих чисел.
+
+// Ввод значений
 Console.Write("Enter first number: ");
 string? num1Line = Console.ReadLine();
 Console.Write("Enter second number: ");
