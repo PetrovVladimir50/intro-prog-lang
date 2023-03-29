@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\bin\Debug\net6.0\Task 14.exe
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\bin\Debug\net6.0\Task 14.deps.json
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\bin\Debug\net6.0\Task 14.runtimeconfig.json
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\bin\Debug\net6.0\Task 14.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\bin\Debug\net6.0\Task 14.pdb
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\Task 14.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\Task 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\Task 14.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\Task 14.AssemblyInfo.cs
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\Task 14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\Task 14.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\refint\Task 14.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\Task 14.pdb
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\Task 14.genruntimeconfig.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 02\Task 14\obj\Debug\net6.0\ref\Task 14.dll
