@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\Task 28.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\Task 28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\Task 28.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\Task 28.AssemblyInfo.cs
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\Task 28.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\bin\Debug\net6.0\Task 28.exe
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\bin\Debug\net6.0\Task 28.deps.json
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\bin\Debug\net6.0\Task 28.runtimeconfig.json
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\bin\Debug\net6.0\Task 28.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\bin\Debug\net6.0\Task 28.pdb
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\Task 28.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\refint\Task 28.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\Task 28.pdb
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\Task 28.genruntimeconfig.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 04\Task 28\obj\Debug\net6.0\ref\Task 28.dll
