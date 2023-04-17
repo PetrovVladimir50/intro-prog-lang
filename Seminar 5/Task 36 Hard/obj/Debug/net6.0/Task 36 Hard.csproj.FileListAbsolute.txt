@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\Task 36 Hard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\Task 36 Hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\Task 36 Hard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\Task 36 Hard.AssemblyInfo.cs
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\Task 36 Hard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\bin\Debug\net6.0\Task 36 Hard.exe
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\bin\Debug\net6.0\Task 36 Hard.deps.json
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\bin\Debug\net6.0\Task 36 Hard.runtimeconfig.json
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\bin\Debug\net6.0\Task 36 Hard.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\bin\Debug\net6.0\Task 36 Hard.pdb
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\Task 36 Hard.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\refint\Task 36 Hard.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\Task 36 Hard.pdb
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\Task 36 Hard.genruntimeconfig.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 5\Task 36 Hard\obj\Debug\net6.0\ref\Task 36 Hard.dll
