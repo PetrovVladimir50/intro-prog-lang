@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\Task 54.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\Task 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\Task 54.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\Task 54.AssemblyInfo.cs
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\Task 54.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\bin\Debug\net6.0\Task 54.exe
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\bin\Debug\net6.0\Task 54.deps.json
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\bin\Debug\net6.0\Task 54.runtimeconfig.json
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\bin\Debug\net6.0\Task 54.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\bin\Debug\net6.0\Task 54.pdb
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\Task 54.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\refint\Task 54.dll
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\Task 54.pdb
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\Task 54.genruntimeconfig.cache
+C:\Users\User\Desktop\intro prog lang\Seminar 08\Task 54\obj\Debug\net6.0\ref\Task 54.dll
